@@ -1,0 +1,4980 @@
+{
+  "condition_001": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "23.9",
+    "source": "LOINC"
+  },
+  "condition_002": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "60.2",
+    "source": "LOINC"
+  },
+  "condition_003": {
+    "triggers": [
+      "high_stress",
+      "low_hrv",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "16.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_004": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "62.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_005": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "11.7",
+    "source": "LOINC"
+  },
+  "condition_006": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "49.7",
+    "source": "Internal"
+  },
+  "condition_007": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "23.3",
+    "source": "ICD-11"
+  },
+  "condition_008": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "77.0",
+    "source": "LOINC"
+  },
+  "condition_009": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "92.1",
+    "source": "ICD-11"
+  },
+  "condition_010": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "34.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_011": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "59.2",
+    "source": "LOINC"
+  },
+  "condition_012": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "83.9",
+    "source": "LOINC"
+  },
+  "condition_013": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "82.0",
+    "source": "Internal"
+  },
+  "condition_014": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "10.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_015": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "25.1",
+    "source": "ICD-11"
+  },
+  "condition_016": {
+    "triggers": [
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "37.1",
+    "source": "Internal"
+  },
+  "condition_017": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "8.2",
+    "source": "LOINC"
+  },
+  "condition_018": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "49.4",
+    "source": "ICD-11"
+  },
+  "condition_019": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "68.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_020": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "26.4",
+    "source": "LOINC"
+  },
+  "condition_021": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "79.1",
+    "source": "Mayo Clinic"
+  },
+  "condition_022": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "87.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_023": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "20.6",
+    "source": "NICE"
+  },
+  "condition_024": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "46.8",
+    "source": "LOINC"
+  },
+  "condition_025": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "99.2",
+    "source": "Internal"
+  },
+  "condition_026": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "37.7",
+    "source": "ICD-11"
+  },
+  "condition_027": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "4.8",
+    "source": "Internal"
+  },
+  "condition_028": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "47.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_029": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "32.6",
+    "source": "NICE"
+  },
+  "condition_030": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "82.9",
+    "source": "NICE"
+  },
+  "condition_031": {
+    "triggers": [
+      "high_stress",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "52.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_032": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv",
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "26.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_033": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "91.2",
+    "source": "ICD-11"
+  },
+  "condition_034": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "94.8",
+    "source": "ICD-11"
+  },
+  "condition_035": {
+    "triggers": [
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "37.4",
+    "source": "LOINC"
+  },
+  "condition_036": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination",
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "3.9",
+    "source": "ICD-11"
+  },
+  "condition_037": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "74.7",
+    "source": "Internal"
+  },
+  "condition_038": {
+    "triggers": [
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "63.9",
+    "source": "NICE"
+  },
+  "condition_039": {
+    "triggers": [
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "77.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_040": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "3.9",
+    "source": "NICE"
+  },
+  "condition_041": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "56.2",
+    "source": "LOINC"
+  },
+  "condition_042": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "10.1",
+    "source": "Internal"
+  },
+  "condition_043": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "48.1",
+    "source": "NICE"
+  },
+  "condition_044": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "28.7",
+    "source": "ICD-11"
+  },
+  "condition_045": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "61.6",
+    "source": "NICE"
+  },
+  "condition_046": {
+    "triggers": [
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "89.4",
+    "source": "NICE"
+  },
+  "condition_047": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "14.9",
+    "source": "ICD-11"
+  },
+  "condition_048": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "34.7",
+    "source": "NICE"
+  },
+  "condition_049": {
+    "triggers": [
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "80.5",
+    "source": "LOINC"
+  },
+  "condition_050": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "76.9",
+    "source": "NICE"
+  },
+  "condition_051": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "84.9",
+    "source": "Internal"
+  },
+  "condition_052": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "55.5",
+    "source": "ICD-11"
+  },
+  "condition_053": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "96.1",
+    "source": "LOINC"
+  },
+  "condition_054": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "40.8",
+    "source": "LOINC"
+  },
+  "condition_055": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "30.0",
+    "source": "NICE"
+  },
+  "condition_056": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "87.5",
+    "source": "LOINC"
+  },
+  "condition_057": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "28.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_058": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "19.0",
+    "source": "ICD-11"
+  },
+  "condition_059": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "96.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_060": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "32.7",
+    "source": "NICE"
+  },
+  "condition_061": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "47.3",
+    "source": "LOINC"
+  },
+  "condition_062": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "high_stress",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "42.6",
+    "source": "Internal"
+  },
+  "condition_063": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "88.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_064": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "77.4",
+    "source": "Internal"
+  },
+  "condition_065": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "30.1",
+    "source": "ICD-11"
+  },
+  "condition_066": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "63.1",
+    "source": "ICD-11"
+  },
+  "condition_067": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "46.2",
+    "source": "LOINC"
+  },
+  "condition_068": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "30.4",
+    "source": "Internal"
+  },
+  "condition_069": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "94.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_070": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "23.9",
+    "source": "Internal"
+  },
+  "condition_071": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "67.2",
+    "source": "LOINC"
+  },
+  "condition_072": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "59.1",
+    "source": "ICD-11"
+  },
+  "condition_073": {
+    "triggers": [
+      "frequent_urination",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "7.9",
+    "source": "ICD-11"
+  },
+  "condition_074": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "24.4",
+    "source": "Internal"
+  },
+  "condition_075": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "16.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_076": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "15.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_077": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "11.9",
+    "source": "NICE"
+  },
+  "condition_078": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "40.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_079": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "75.7",
+    "source": "ICD-11"
+  },
+  "condition_080": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "63.6",
+    "source": "LOINC"
+  },
+  "condition_081": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "86.7",
+    "source": "LOINC"
+  },
+  "condition_082": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "71.1",
+    "source": "LOINC"
+  },
+  "condition_083": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "73.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_084": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "56.8",
+    "source": "ICD-11"
+  },
+  "condition_085": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "67.6",
+    "source": "LOINC"
+  },
+  "condition_086": {
+    "triggers": [
+      "low_hrv",
+      "sleep_deficit",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "93.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_087": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "97.5",
+    "source": "LOINC"
+  },
+  "condition_088": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "97.9",
+    "source": "ICD-11"
+  },
+  "condition_089": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "30.2",
+    "source": "ICD-11"
+  },
+  "condition_090": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "97.4",
+    "source": "LOINC"
+  },
+  "condition_091": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "89.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_092": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "45.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_093": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "17.9",
+    "source": "ICD-11"
+  },
+  "condition_094": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "90.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_095": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "19.1",
+    "source": "NICE"
+  },
+  "condition_096": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "83.7",
+    "source": "ICD-11"
+  },
+  "condition_097": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "39.6",
+    "source": "ICD-11"
+  },
+  "condition_098": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "38.4",
+    "source": "LOINC"
+  },
+  "condition_099": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "16.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_100": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "66.1",
+    "source": "ICD-11"
+  },
+  "condition_101": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "20.5",
+    "source": "NICE"
+  },
+  "condition_102": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "81.3",
+    "source": "ICD-11"
+  },
+  "condition_103": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "27.7",
+    "source": "NICE"
+  },
+  "condition_104": {
+    "triggers": [
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "5.0",
+    "source": "Internal"
+  },
+  "condition_105": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "96.9",
+    "source": "Internal"
+  },
+  "condition_106": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "20.3",
+    "source": "ICD-11"
+  },
+  "condition_107": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "63.9",
+    "source": "ICD-11"
+  },
+  "condition_108": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "60.9",
+    "source": "Internal"
+  },
+  "condition_109": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "57.7",
+    "source": "Internal"
+  },
+  "condition_110": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "51.1",
+    "source": "ICD-11"
+  },
+  "condition_111": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "66.1",
+    "source": "Internal"
+  },
+  "condition_112": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "62.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_113": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "48.4",
+    "source": "Internal"
+  },
+  "condition_114": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "62.1",
+    "source": "NICE"
+  },
+  "condition_115": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "39.6",
+    "source": "NICE"
+  },
+  "condition_116": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "17.8",
+    "source": "Internal"
+  },
+  "condition_117": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "80.1",
+    "source": "ICD-11"
+  },
+  "condition_118": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "14.6",
+    "source": "NICE"
+  },
+  "condition_119": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "23.8",
+    "source": "Internal"
+  },
+  "condition_120": {
+    "triggers": [
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "99.5",
+    "source": "Internal"
+  },
+  "condition_121": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "35.8",
+    "source": "NICE"
+  },
+  "condition_122": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "36.4",
+    "source": "Internal"
+  },
+  "condition_123": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "19.0",
+    "source": "Internal"
+  },
+  "condition_124": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "30.9",
+    "source": "Internal"
+  },
+  "condition_125": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "62.5",
+    "source": "Internal"
+  },
+  "condition_126": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "19.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_127": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "35.8",
+    "source": "Internal"
+  },
+  "condition_128": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "45.0",
+    "source": "LOINC"
+  },
+  "condition_129": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "16.9",
+    "source": "NICE"
+  },
+  "condition_130": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "41.7",
+    "source": "Internal"
+  },
+  "condition_131": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "49.3",
+    "source": "Internal"
+  },
+  "condition_132": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "71.9",
+    "source": "ICD-11"
+  },
+  "condition_133": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "30.7",
+    "source": "LOINC"
+  },
+  "condition_134": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "65.7",
+    "source": "Internal"
+  },
+  "condition_135": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "91.6",
+    "source": "Internal"
+  },
+  "condition_136": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "78.7",
+    "source": "Internal"
+  },
+  "condition_137": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "72.9",
+    "source": "ICD-11"
+  },
+  "condition_138": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "75.6",
+    "source": "ICD-11"
+  },
+  "condition_139": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "60.9",
+    "source": "NICE"
+  },
+  "condition_140": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "2.3",
+    "source": "Internal"
+  },
+  "condition_141": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "56.0",
+    "source": "LOINC"
+  },
+  "condition_142": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "70.5",
+    "source": "Internal"
+  },
+  "condition_143": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "3.0",
+    "source": "ICD-11"
+  },
+  "condition_144": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "15.0",
+    "source": "ICD-11"
+  },
+  "condition_145": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "99.0",
+    "source": "NICE"
+  },
+  "condition_146": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "41.6",
+    "source": "Internal"
+  },
+  "condition_147": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "19.4",
+    "source": "Internal"
+  },
+  "condition_148": {
+    "triggers": [
+      "low_hrv",
+      "sleep_deficit",
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "63.8",
+    "source": "LOINC"
+  },
+  "condition_149": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "23.8",
+    "source": "ICD-11"
+  },
+  "condition_150": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "59.2",
+    "source": "ICD-11"
+  },
+  "condition_151": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "79.4",
+    "source": "NICE"
+  },
+  "condition_152": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "89.3",
+    "source": "ICD-11"
+  },
+  "condition_153": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "5.0",
+    "source": "NICE"
+  },
+  "condition_154": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "12.7",
+    "source": "Internal"
+  },
+  "condition_155": {
+    "triggers": [
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "28.9",
+    "source": "NICE"
+  },
+  "condition_156": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "22.1",
+    "source": "Internal"
+  },
+  "condition_157": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "75.1",
+    "source": "ICD-11"
+  },
+  "condition_158": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "5.7",
+    "source": "ICD-11"
+  },
+  "condition_159": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "84.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_160": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "2.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_161": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "78.3",
+    "source": "Internal"
+  },
+  "condition_162": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "14.3",
+    "source": "Internal"
+  },
+  "condition_163": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "31.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_164": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "2.7",
+    "source": "ICD-11"
+  },
+  "condition_165": {
+    "triggers": [
+      "high_stress",
+      "low_hrv",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "35.6",
+    "source": "LOINC"
+  },
+  "condition_166": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "76.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_167": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "33.0",
+    "source": "NICE"
+  },
+  "condition_168": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "96.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_169": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "88.1",
+    "source": "NICE"
+  },
+  "condition_170": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "44.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_171": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "50.1",
+    "source": "Internal"
+  },
+  "condition_172": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "29.1",
+    "source": "LOINC"
+  },
+  "condition_173": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "35.8",
+    "source": "Internal"
+  },
+  "condition_174": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "63.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_175": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "22.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_176": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "30.1",
+    "source": "LOINC"
+  },
+  "condition_177": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "40.5",
+    "source": "Internal"
+  },
+  "condition_178": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "30.4",
+    "source": "NICE"
+  },
+  "condition_179": {
+    "triggers": [
+      "frequent_urination",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "49.9",
+    "source": "NICE"
+  },
+  "condition_180": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "62.8",
+    "source": "NICE"
+  },
+  "condition_181": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "65.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_182": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "13.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_183": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "35.5",
+    "source": "ICD-11"
+  },
+  "condition_184": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "11.4",
+    "source": "LOINC"
+  },
+  "condition_185": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "13.9",
+    "source": "ICD-11"
+  },
+  "condition_186": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "59.4",
+    "source": "NICE"
+  },
+  "condition_187": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "91.5",
+    "source": "LOINC"
+  },
+  "condition_188": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "12.8",
+    "source": "NICE"
+  },
+  "condition_189": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "34.3",
+    "source": "ICD-11"
+  },
+  "condition_190": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "31.8",
+    "source": "ICD-11"
+  },
+  "condition_191": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "51.2",
+    "source": "LOINC"
+  },
+  "condition_192": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "98.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_193": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "41.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_194": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "54.6",
+    "source": "ICD-11"
+  },
+  "condition_195": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "24.9",
+    "source": "LOINC"
+  },
+  "condition_196": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "79.2",
+    "source": "NICE"
+  },
+  "condition_197": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "82.0",
+    "source": "NICE"
+  },
+  "condition_198": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "19.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_199": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "27.7",
+    "source": "LOINC"
+  },
+  "condition_200": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "2.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_201": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "56.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_202": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "62.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_203": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "33.6",
+    "source": "Internal"
+  },
+  "condition_204": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "41.9",
+    "source": "LOINC"
+  },
+  "condition_205": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "94.0",
+    "source": "Internal"
+  },
+  "condition_206": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "28.2",
+    "source": "NICE"
+  },
+  "condition_207": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "98.0",
+    "source": "LOINC"
+  },
+  "condition_208": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "48.0",
+    "source": "ICD-11"
+  },
+  "condition_209": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "58.8",
+    "source": "NICE"
+  },
+  "condition_210": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "19.5",
+    "source": "LOINC"
+  },
+  "condition_211": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "21.6",
+    "source": "Internal"
+  },
+  "condition_212": {
+    "triggers": [
+      "low_hrv",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "40.2",
+    "source": "NICE"
+  },
+  "condition_213": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "84.5",
+    "source": "LOINC"
+  },
+  "condition_214": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "93.0",
+    "source": "LOINC"
+  },
+  "condition_215": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "32.3",
+    "source": "ICD-11"
+  },
+  "condition_216": {
+    "triggers": [
+      "frequent_urination",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "20.5",
+    "source": "Internal"
+  },
+  "condition_217": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "8.3",
+    "source": "ICD-11"
+  },
+  "condition_218": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "88.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_219": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "63.5",
+    "source": "Internal"
+  },
+  "condition_220": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "92.4",
+    "source": "ICD-11"
+  },
+  "condition_221": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "9.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_222": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "95.2",
+    "source": "Internal"
+  },
+  "condition_223": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "48.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_224": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "66.6",
+    "source": "LOINC"
+  },
+  "condition_225": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "20.3",
+    "source": "NICE"
+  },
+  "condition_226": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "86.3",
+    "source": "Internal"
+  },
+  "condition_227": {
+    "triggers": [
+      "high_stress",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "76.3",
+    "source": "Internal"
+  },
+  "condition_228": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "90.7",
+    "source": "Internal"
+  },
+  "condition_229": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "32.7",
+    "source": "ICD-11"
+  },
+  "condition_230": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "79.8",
+    "source": "ICD-11"
+  },
+  "condition_231": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "9.3",
+    "source": "Internal"
+  },
+  "condition_232": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "83.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_233": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "17.8",
+    "source": "LOINC"
+  },
+  "condition_234": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "31.2",
+    "source": "LOINC"
+  },
+  "condition_235": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "70.5",
+    "source": "LOINC"
+  },
+  "condition_236": {
+    "triggers": [
+      "high_stress",
+      "low_hrv",
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "81.3",
+    "source": "Internal"
+  },
+  "condition_237": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "86.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_238": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "33.6",
+    "source": "LOINC"
+  },
+  "condition_239": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "36.5",
+    "source": "LOINC"
+  },
+  "condition_240": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "22.5",
+    "source": "LOINC"
+  },
+  "condition_241": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "26.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_242": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "75.1",
+    "source": "Mayo Clinic"
+  },
+  "condition_243": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "10.3",
+    "source": "NICE"
+  },
+  "condition_244": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "60.7",
+    "source": "NICE"
+  },
+  "condition_245": {
+    "triggers": [
+      "frequent_urination",
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "42.7",
+    "source": "LOINC"
+  },
+  "condition_246": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "1.3",
+    "source": "Internal"
+  },
+  "condition_247": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "29.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_248": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "82.2",
+    "source": "Internal"
+  },
+  "condition_249": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "2.6",
+    "source": "NICE"
+  },
+  "condition_250": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "21.7",
+    "source": "ICD-11"
+  },
+  "condition_251": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "43.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_252": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "31.0",
+    "source": "Internal"
+  },
+  "condition_253": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "18.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_254": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "70.3",
+    "source": "NICE"
+  },
+  "condition_255": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "52.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_256": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "71.6",
+    "source": "Internal"
+  },
+  "condition_257": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "78.1",
+    "source": "Internal"
+  },
+  "condition_258": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "61.1",
+    "source": "NICE"
+  },
+  "condition_259": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "66.4",
+    "source": "ICD-11"
+  },
+  "condition_260": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "65.2",
+    "source": "NICE"
+  },
+  "condition_261": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "21.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_262": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "22.4",
+    "source": "Internal"
+  },
+  "condition_263": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "20.5",
+    "source": "Internal"
+  },
+  "condition_264": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "36.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_265": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "63.9",
+    "source": "Internal"
+  },
+  "condition_266": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "86.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_267": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "34.4",
+    "source": "NICE"
+  },
+  "condition_268": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "68.8",
+    "source": "Internal"
+  },
+  "condition_269": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "52.9",
+    "source": "Internal"
+  },
+  "condition_270": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "20.9",
+    "source": "NICE"
+  },
+  "condition_271": {
+    "triggers": [
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "29.2",
+    "source": "NICE"
+  },
+  "condition_272": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "87.3",
+    "source": "LOINC"
+  },
+  "condition_273": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "31.6",
+    "source": "Internal"
+  },
+  "condition_274": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "67.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_275": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "14.5",
+    "source": "LOINC"
+  },
+  "condition_276": {
+    "triggers": [
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "43.2",
+    "source": "Internal"
+  },
+  "condition_277": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "73.1",
+    "source": "Mayo Clinic"
+  },
+  "condition_278": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "5.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_279": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "34.3",
+    "source": "LOINC"
+  },
+  "condition_280": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "41.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_281": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "40.5",
+    "source": "LOINC"
+  },
+  "condition_282": {
+    "triggers": [
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "26.3",
+    "source": "ICD-11"
+  },
+  "condition_283": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "63.3",
+    "source": "Internal"
+  },
+  "condition_284": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "68.0",
+    "source": "NICE"
+  },
+  "condition_285": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "30.7",
+    "source": "ICD-11"
+  },
+  "condition_286": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "88.9",
+    "source": "LOINC"
+  },
+  "condition_287": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "28.2",
+    "source": "Internal"
+  },
+  "condition_288": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "80.4",
+    "source": "Internal"
+  },
+  "condition_289": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "53.8",
+    "source": "Internal"
+  },
+  "condition_290": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "55.6",
+    "source": "Internal"
+  },
+  "condition_291": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "74.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_292": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "15.3",
+    "source": "ICD-11"
+  },
+  "condition_293": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "1.9",
+    "source": "NICE"
+  },
+  "condition_294": {
+    "triggers": [
+      "frequent_urination",
+      "low_energy",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "2.8",
+    "source": "LOINC"
+  },
+  "condition_295": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "40.3",
+    "source": "ICD-11"
+  },
+  "condition_296": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "5.3",
+    "source": "NICE"
+  },
+  "condition_297": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "54.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_298": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "69.6",
+    "source": "ICD-11"
+  },
+  "condition_299": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "85.3",
+    "source": "Internal"
+  },
+  "condition_300": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "high_stress",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "8.0",
+    "source": "NICE"
+  },
+  "condition_301": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "73.7",
+    "source": "NICE"
+  },
+  "condition_302": {
+    "triggers": [
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "60.7",
+    "source": "Internal"
+  },
+  "condition_303": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "25.3",
+    "source": "LOINC"
+  },
+  "condition_304": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "34.6",
+    "source": "ICD-11"
+  },
+  "condition_305": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "7.1",
+    "source": "Internal"
+  },
+  "condition_306": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "29.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_307": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "46.5",
+    "source": "LOINC"
+  },
+  "condition_308": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "6.8",
+    "source": "Internal"
+  },
+  "condition_309": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "38.4",
+    "source": "Internal"
+  },
+  "condition_310": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "45.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_311": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "98.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_312": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "94.6",
+    "source": "LOINC"
+  },
+  "condition_313": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "7.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_314": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "57.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_315": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "35.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_316": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "36.9",
+    "source": "Internal"
+  },
+  "condition_317": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "29.7",
+    "source": "ICD-11"
+  },
+  "condition_318": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "22.2",
+    "source": "LOINC"
+  },
+  "condition_319": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "80.7",
+    "source": "LOINC"
+  },
+  "condition_320": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "33.1",
+    "source": "Internal"
+  },
+  "condition_321": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "74.0",
+    "source": "NICE"
+  },
+  "condition_322": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "10.7",
+    "source": "LOINC"
+  },
+  "condition_323": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "26.6",
+    "source": "LOINC"
+  },
+  "condition_324": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "7.0",
+    "source": "NICE"
+  },
+  "condition_325": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "36.6",
+    "source": "ICD-11"
+  },
+  "condition_326": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "33.5",
+    "source": "Internal"
+  },
+  "condition_327": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "72.9",
+    "source": "NICE"
+  },
+  "condition_328": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "25.6",
+    "source": "Internal"
+  },
+  "condition_329": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "98.4",
+    "source": "ICD-11"
+  },
+  "condition_330": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "85.9",
+    "source": "Internal"
+  },
+  "condition_331": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "26.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_332": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "26.8",
+    "source": "NICE"
+  },
+  "condition_333": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "2.9",
+    "source": "ICD-11"
+  },
+  "condition_334": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "18.8",
+    "source": "ICD-11"
+  },
+  "condition_335": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "12.5",
+    "source": "ICD-11"
+  },
+  "condition_336": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "67.3",
+    "source": "NICE"
+  },
+  "condition_337": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "63.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_338": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "97.4",
+    "source": "NICE"
+  },
+  "condition_339": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "97.1",
+    "source": "LOINC"
+  },
+  "condition_340": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "90.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_341": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "55.2",
+    "source": "ICD-11"
+  },
+  "condition_342": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "99.2",
+    "source": "ICD-11"
+  },
+  "condition_343": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "5.5",
+    "source": "ICD-11"
+  },
+  "condition_344": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "20.6",
+    "source": "NICE"
+  },
+  "condition_345": {
+    "triggers": [
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "27.4",
+    "source": "NICE"
+  },
+  "condition_346": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "12.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_347": {
+    "triggers": [
+      "frequent_urination",
+      "sleep_deficit",
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "57.9",
+    "source": "LOINC"
+  },
+  "condition_348": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "13.5",
+    "source": "LOINC"
+  },
+  "condition_349": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "26.8",
+    "source": "NICE"
+  },
+  "condition_350": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "48.2",
+    "source": "NICE"
+  },
+  "condition_351": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "72.2",
+    "source": "ICD-11"
+  },
+  "condition_352": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "94.0",
+    "source": "ICD-11"
+  },
+  "condition_353": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "66.5",
+    "source": "Internal"
+  },
+  "condition_354": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "96.1",
+    "source": "LOINC"
+  },
+  "condition_355": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "3.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_356": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "23.5",
+    "source": "Internal"
+  },
+  "condition_357": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "62.1",
+    "source": "Internal"
+  },
+  "condition_358": {
+    "triggers": [
+      "digestive_discomfort",
+      "sleep_deficit",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "36.5",
+    "source": "NICE"
+  },
+  "condition_359": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "94.8",
+    "source": "Internal"
+  },
+  "condition_360": {
+    "triggers": [
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "74.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_361": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "77.8",
+    "source": "NICE"
+  },
+  "condition_362": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "8.3",
+    "source": "Internal"
+  },
+  "condition_363": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "82.7",
+    "source": "Internal"
+  },
+  "condition_364": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "47.9",
+    "source": "ICD-11"
+  },
+  "condition_365": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "elevated_glucose",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "38.2",
+    "source": "LOINC"
+  },
+  "condition_366": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "70.0",
+    "source": "LOINC"
+  },
+  "condition_367": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "63.5",
+    "source": "NICE"
+  },
+  "condition_368": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "49.4",
+    "source": "Internal"
+  },
+  "condition_369": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "50.1",
+    "source": "ICD-11"
+  },
+  "condition_370": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "4.9",
+    "source": "NICE"
+  },
+  "condition_371": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "96.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_372": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "14.2",
+    "source": "Internal"
+  },
+  "condition_373": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "86.7",
+    "source": "Internal"
+  },
+  "condition_374": {
+    "triggers": [
+      "low_energy",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "42.1",
+    "source": "Internal"
+  },
+  "condition_375": {
+    "triggers": [
+      "frequent_urination",
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "7.6",
+    "source": "ICD-11"
+  },
+  "condition_376": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "44.8",
+    "source": "ICD-11"
+  },
+  "condition_377": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "51.1",
+    "source": "LOINC"
+  },
+  "condition_378": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "21.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_379": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "78.4",
+    "source": "ICD-11"
+  },
+  "condition_380": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "35.0",
+    "source": "LOINC"
+  },
+  "condition_381": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "17.4",
+    "source": "ICD-11"
+  },
+  "condition_382": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "59.9",
+    "source": "Internal"
+  },
+  "condition_383": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "83.4",
+    "source": "Internal"
+  },
+  "condition_384": {
+    "triggers": [
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "73.4",
+    "source": "ICD-11"
+  },
+  "condition_385": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "36.8",
+    "source": "Internal"
+  },
+  "condition_386": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "90.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_387": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "52.3",
+    "source": "ICD-11"
+  },
+  "condition_388": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "7.4",
+    "source": "LOINC"
+  },
+  "condition_389": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "84.3",
+    "source": "Mayo Clinic"
+  },
+  "condition_390": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "13.1",
+    "source": "LOINC"
+  },
+  "condition_391": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "7.7",
+    "source": "ICD-11"
+  },
+  "condition_392": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "12.5",
+    "source": "Internal"
+  },
+  "condition_393": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "25.4",
+    "source": "NICE"
+  },
+  "condition_394": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "50.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_395": {
+    "triggers": [
+      "low_hrv",
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "80.0",
+    "source": "ICD-11"
+  },
+  "condition_396": {
+    "triggers": [
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "50.7",
+    "source": "LOINC"
+  },
+  "condition_397": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "97.8",
+    "source": "NICE"
+  },
+  "condition_398": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "46.6",
+    "source": "NICE"
+  },
+  "condition_399": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "24.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_400": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "74.2",
+    "source": "Internal"
+  },
+  "condition_401": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "55.3",
+    "source": "ICD-11"
+  },
+  "condition_402": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "70.9",
+    "source": "Internal"
+  },
+  "condition_403": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "56.8",
+    "source": "ICD-11"
+  },
+  "condition_404": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "69.9",
+    "source": "NICE"
+  },
+  "condition_405": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "15.6",
+    "source": "LOINC"
+  },
+  "condition_406": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "19.4",
+    "source": "NICE"
+  },
+  "condition_407": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "85.7",
+    "source": "LOINC"
+  },
+  "condition_408": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "95.8",
+    "source": "NICE"
+  },
+  "condition_409": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "17.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_410": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "49.6",
+    "source": "ICD-11"
+  },
+  "condition_411": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "86.4",
+    "source": "NICE"
+  },
+  "condition_412": {
+    "triggers": [
+      "sleep_deficit",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "81.4",
+    "source": "NICE"
+  },
+  "condition_413": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "34.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_414": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "68.0",
+    "source": "ICD-11"
+  },
+  "condition_415": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "2.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_416": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "30.5",
+    "source": "LOINC"
+  },
+  "condition_417": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "low_hrv",
+      "elevated_glucose"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "80.0",
+    "source": "Mayo Clinic"
+  },
+  "condition_418": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "75.0",
+    "source": "NICE"
+  },
+  "condition_419": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "80.5",
+    "source": "ICD-11"
+  },
+  "condition_420": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "28.1",
+    "source": "NICE"
+  },
+  "condition_421": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "41.7",
+    "source": "ICD-11"
+  },
+  "condition_422": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "55.3",
+    "source": "NICE"
+  },
+  "condition_423": {
+    "triggers": [
+      "low_energy",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "61.9",
+    "source": "LOINC"
+  },
+  "condition_424": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "33.8",
+    "source": "LOINC"
+  },
+  "condition_425": {
+    "triggers": [
+      "high_stress",
+      "digestive_discomfort",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "36.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_426": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "40.7",
+    "source": "Internal"
+  },
+  "condition_427": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "8.6",
+    "source": "ICD-11"
+  },
+  "condition_428": {
+    "triggers": [
+      "low_hrv",
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "68.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_429": {
+    "triggers": [
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "90.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_430": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "62.9",
+    "source": "NICE"
+  },
+  "condition_431": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "20.0",
+    "source": "LOINC"
+  },
+  "condition_432": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "13.5",
+    "source": "NICE"
+  },
+  "condition_433": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "51.3",
+    "source": "ICD-11"
+  },
+  "condition_434": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv",
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "16.2",
+    "source": "Mayo Clinic"
+  },
+  "condition_435": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "26.6",
+    "source": "Internal"
+  },
+  "condition_436": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "89.0",
+    "source": "ICD-11"
+  },
+  "condition_437": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "18.7",
+    "source": "ICD-11"
+  },
+  "condition_438": {
+    "triggers": [
+      "low_energy",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "58.9",
+    "source": "Mayo Clinic"
+  },
+  "condition_439": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "13.9",
+    "source": "ICD-11"
+  },
+  "condition_440": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "39.7",
+    "source": "NICE"
+  },
+  "condition_441": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "77.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_442": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "84.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_443": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "27.4",
+    "source": "ICD-11"
+  },
+  "condition_444": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "42.1",
+    "source": "Mayo Clinic"
+  },
+  "condition_445": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "68.5",
+    "source": "LOINC"
+  },
+  "condition_446": {
+    "triggers": [
+      "high_stress",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "62.4",
+    "source": "NICE"
+  },
+  "condition_447": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose",
+      "low_hrv",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "34.0",
+    "source": "NICE"
+  },
+  "condition_448": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "81.0",
+    "source": "NICE"
+  },
+  "condition_449": {
+    "triggers": [
+      "frequent_urination",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "87.8",
+    "source": "LOINC"
+  },
+  "condition_450": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "30.8",
+    "source": "ICD-11"
+  },
+  "condition_451": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "78.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_452": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "63.7",
+    "source": "NICE"
+  },
+  "condition_453": {
+    "triggers": [
+      "elevated_glucose",
+      "low_energy",
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "8.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_454": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "73.2",
+    "source": "NICE"
+  },
+  "condition_455": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "65.5",
+    "source": "Internal"
+  },
+  "condition_456": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "40.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_457": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit",
+      "frequent_urination"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "3.9",
+    "source": "LOINC"
+  },
+  "condition_458": {
+    "triggers": [
+      "elevated_glucose",
+      "high_stress",
+      "digestive_discomfort"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "57.1",
+    "source": "ICD-11"
+  },
+  "condition_459": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "15.4",
+    "source": "NICE"
+  },
+  "condition_460": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "80.7",
+    "source": "NICE"
+  },
+  "condition_461": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination",
+      "low_hrv",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "32.5",
+    "source": "ICD-11"
+  },
+  "condition_462": {
+    "triggers": [
+      "sleep_deficit",
+      "digestive_discomfort",
+      "frequent_urination",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "55.1",
+    "source": "ICD-11"
+  },
+  "condition_463": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "frequent_urination",
+      "elevated_glucose"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "18.7",
+    "source": "ICD-11"
+  },
+  "condition_464": {
+    "triggers": [
+      "high_stress",
+      "elevated_glucose"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "37.7",
+    "source": "ICD-11"
+  },
+  "condition_465": {
+    "triggers": [
+      "frequent_urination",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "41.3",
+    "source": "Internal"
+  },
+  "condition_466": {
+    "triggers": [
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "64.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_467": {
+    "triggers": [
+      "frequent_urination",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "26.4",
+    "source": "Internal"
+  },
+  "condition_468": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "51.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_469": {
+    "triggers": [
+      "low_hrv",
+      "elevated_glucose",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "65.2",
+    "source": "ICD-11"
+  },
+  "condition_470": {
+    "triggers": [
+      "sleep_deficit",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "93.2",
+    "source": "ICD-11"
+  },
+  "condition_471": {
+    "triggers": [
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "84.1",
+    "source": "Mayo Clinic"
+  },
+  "condition_472": {
+    "triggers": [
+      "digestive_discomfort",
+      "frequent_urination",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "91.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_473": {
+    "triggers": [
+      "elevated_glucose",
+      "frequent_urination",
+      "high_stress",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "64.9",
+    "source": "ICD-11"
+  },
+  "condition_474": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "elevated_glucose",
+      "low_hrv"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "44.8",
+    "source": "Mayo Clinic"
+  },
+  "condition_475": {
+    "triggers": [
+      "low_energy",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "39.1",
+    "source": "NICE"
+  },
+  "condition_476": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "27.6",
+    "source": "Internal"
+  },
+  "condition_477": {
+    "triggers": [
+      "low_energy",
+      "elevated_glucose",
+      "digestive_discomfort"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "46.4",
+    "source": "NICE"
+  },
+  "condition_478": {
+    "triggers": [
+      "high_stress",
+      "low_hrv",
+      "sleep_deficit"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "49.4",
+    "source": "ICD-11"
+  },
+  "condition_479": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "57.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_480": {
+    "triggers": [
+      "elevated_glucose",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "69.4",
+    "source": "LOINC"
+  },
+  "condition_481": {
+    "triggers": [
+      "sleep_deficit",
+      "frequent_urination",
+      "high_stress"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "31.0",
+    "source": "ICD-11"
+  },
+  "condition_482": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "8.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_483": {
+    "triggers": [
+      "high_stress",
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "71.6",
+    "source": "Mayo Clinic"
+  },
+  "condition_484": {
+    "triggers": [
+      "low_hrv",
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "80.0",
+    "source": "Internal"
+  },
+  "condition_485": {
+    "triggers": [
+      "high_stress",
+      "frequent_urination"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "75.5",
+    "source": "Mayo Clinic"
+  },
+  "condition_486": {
+    "triggers": [
+      "low_energy",
+      "frequent_urination"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "19.0",
+    "source": "NICE"
+  },
+  "condition_487": {
+    "triggers": [
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "89.9",
+    "source": "LOINC"
+  },
+  "condition_488": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy",
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "55.7",
+    "source": "Internal"
+  },
+  "condition_489": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_hrv"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "68.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_490": {
+    "triggers": [
+      "high_stress",
+      "low_hrv"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "49.0",
+    "source": "LOINC"
+  },
+  "condition_491": {
+    "triggers": [
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Consistent with metabolic disruption or dysregulation.",
+    "icd": "20.0",
+    "source": "Internal"
+  },
+  "condition_492": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "19.4",
+    "source": "LOINC"
+  },
+  "condition_493": {
+    "triggers": [
+      "sleep_deficit",
+      "low_energy"
+    ],
+    "description": "Triggers consistent with subclinical inflammation.",
+    "icd": "30.6",
+    "source": "NICE"
+  },
+  "condition_494": {
+    "triggers": [
+      "sleep_deficit",
+      "low_hrv"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "96.2",
+    "source": "Internal"
+  },
+  "condition_495": {
+    "triggers": [
+      "low_energy",
+      "digestive_discomfort",
+      "elevated_glucose"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "60.8",
+    "source": "ICD-11"
+  },
+  "condition_496": {
+    "triggers": [
+      "elevated_glucose",
+      "digestive_discomfort",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "11.7",
+    "source": "Mayo Clinic"
+  },
+  "condition_497": {
+    "triggers": [
+      "low_energy",
+      "sleep_deficit",
+      "low_hrv",
+      "high_stress"
+    ],
+    "description": "Pattern suggests early cardiovascular involvement.",
+    "icd": "62.4",
+    "source": "Mayo Clinic"
+  },
+  "condition_498": {
+    "triggers": [
+      "high_stress",
+      "sleep_deficit"
+    ],
+    "description": "Could be related to immune or metabolic issues.",
+    "icd": "59.2",
+    "source": "NICE"
+  },
+  "condition_499": {
+    "triggers": [
+      "digestive_discomfort",
+      "low_energy"
+    ],
+    "description": "Indicates possible chronic fatigue syndrome.",
+    "icd": "17.3",
+    "source": "LOINC"
+  },
+  "condition_500": {
+    "triggers": [
+      "low_hrv",
+      "low_energy",
+      "digestive_discomfort"
+    ],
+    "description": "May be linked to endocrine imbalance.",
+    "icd": "24.2",
+    "source": "Mayo Clinic"
+  }
+}
